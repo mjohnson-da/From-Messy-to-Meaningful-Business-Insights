@@ -1,3 +1,10 @@
+![Dashboard Preview](Preview%20From%20Messy%20to%20Meaningful%20Business%20Insights%20.png)
+
+📄 [From Messy to Meaningful. Sales Dashboard from Dirty Data.pbix](From%20Messy%20to%20Meaningful.%20Sales%20Dashboard%20from%20Dirty%20Data.pbix)
+This 
+
+# Customer Sales Insights – Cleaned Data Analysis in Power BI
+...
 # Customer Sales Insights – Cleaned Data Analysis in Power BI
 
 This project demonstrates the end-to-end data cleaning, modeling, and visualization of a dirty synthetic sales dataset using Power BI. It showcases how raw, error-prone data can be transformed into actionable business intelligence.
