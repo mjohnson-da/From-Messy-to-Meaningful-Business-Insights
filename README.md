@@ -1,7 +1,7 @@
 ![Dashboard Preview](Preview%20From%20Messy%20to%20Meaningful%20Business%20Insights%20.png)
 
 📄 [From Messy to Meaningful. Sales Dashboard from Dirty Data.pbix](From%20Messy%20to%20Meaningful.%20Sales%20Dashboard%20from%20Dirty%20Data.pbix)
-This 
+Requires Power BI Desktop to view.
 
 # Customer Sales Insights – Cleaned Data Analysis in Power BI
 ...
